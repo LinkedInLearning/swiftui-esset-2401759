@@ -1,7 +1,7 @@
 # SwiftUI Grundlagenkurs
 Dies ist das Repository für den **LinkedIn Learning** Kurs [SwiftUI Grundlagen]. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
 
-[![COURSENAME](COURSEIMAGE)](LICOURSEURL)
+![COURSENAME][lil-thumbnail-url] 
 
 Das SwiftUI-Framework ermöglicht es, plattformübergreifend Views für die verschiedenen Betriebssysteme von Apple umzusetzen, egal ob für Mac, iPhone, iPad oder Apple Watch. Das umfassenden Grundlagentraining bringt Ihnen die Funktionsweise im Detail nahe: Dabei lernen Sie die verschiedenen View-Elemente wie Labels, Images, Button und Listen kennen und erfahren, wie Sie Navigationsstrukturen und Tab-Views mit SwiftUI umsetzen. Auch der Umgang mit Daten und die fortwährende Aktualisierung von Views spielen eine wichtige Rolle. Zum Abschluss erfahren Sie alles Wichtige über den effizienten Einsatz der Preview in Xcode.
 
