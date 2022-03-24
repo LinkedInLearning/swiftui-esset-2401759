@@ -20,4 +20,4 @@ _Autor, Apple-Entwicklker und Trainer_
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/thomas-sillmann) an.
 
 [lil-course-url]: https://www.linkedin.com/learning/swiftui-grundkurs/das-praktische-apple-entwicklerframework-swiftui-kennen-lernen-und-nutzen
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHtoU504sbFZQ/learning-public-crop_675_1200/0/1643021111747?e=1646956800&v
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHtoU504sbFZQ/learning-public-crop_675_1200/0/1643021111747
